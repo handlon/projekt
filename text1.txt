@@ -1,0 +1,26 @@
+na co se halvně využívalá výkon grafické karty 
+
+Hraní her
+grafická karta je jednou z hlavních součástí herního počítače. Hráč počítačových her potřebuje mít ve hře co nejvíce snímků za sekundu což zajišťuje hlavně grafická karta.
+čím vyšší výkon grafické karty, tím vyšší počet snímků za sekundu. 
+
+
+Používá se pro GPU jiné než hry
+
+
+Editování videa
+Moderní grafické karty podporují software používaný pro kódování videa, což je proces, při kterém se video data připravují a formátují před přehráváním. Kódování videa je náročný proces, jehož dokončení může trvat hodně dlouho, pokud se používá pouze CPU. S GPU lze kódování videa provést poměrně rychle bez přetěžování systémových prostředků. Je důležité poznamenat, že dokončení kódování videa ve vysokém rozlišení může chvíli trvat, i když máte k dispozici vysoce výkonný GPU. S video formáty podporujícími stále vyšší rozlišení je adekvátní GPU nezbytným nástrojem pro moderní video editor.
+
+Renderování 3D grafiky
+Zatímco 3D grafika se běžně používá pro videohry, stále více se používá také v jiných formách médií, jako jsou filmy, televizní pořady, reklamy a digitální umělecké displeje. Podobně jako střih videa může být vytváření 3D grafiky s vysokým rozlišením proces náročný na zdroje a čas, a to i s nejmodernějším hardwarem.
+
+Moderní filmová studia často závisejí na technologii GPU při vytváření stále živějších a dynamických počítačových obrazů, díky čemuž je hardware životně důležitou součástí procesu tvorby filmu. Digitální umělci používají počítače s podporou GPU k vytváření abstraktních displejů, které by nebylo možné vytvořit ve fyzickém prostoru, což jim umožňuje vytvářet umělecká díla, která se nepodobají ničemu, co bylo dosud vidět. Se správnou kombinací hardwarového výkonu a umělecké vize mohou být GPU výkonným kreativním zdrojem pro jakýkoli mediální provoz.
+
+Blockchainy a těžba kryptoměn
+Jedním z více propagovaných použití GPU vedle hraní her je jejich role v tom, co se nazývá těžba nebo těžba kryptoměn. Akt těžby kryptoměn zahrnuje věnování systémových zdrojů tomu, čemu se říká blockchain nebo nepřetržitý záznam, který používá sofistikované šifrovací algoritmy k ukládání transakčních dat. Každý záznam v tomto záznamu je označován jako blok a jeho generování vyžaduje určité množství výpočetního výkonu.
+
+Zatímco technologie blockchain má využití mimo kryptoměny, blockchainy se obecně podílejí na těžbě. Nejčastěji je to vidět v kontextu kryptoměny Bitcoin, ale blockchainy existují i pro jiné měny a proces těžby se může lišit v závislosti na dané měně.
+
+Pokud jde o těžbu bitcoinů, proces zahrnuje věnování hardwarových zdrojů vytváření bloků v blockchainu bitcoinů. Čím více bloků je přidáno do blockchainu, tím více bitcoinů se generuje. To přichází na úkor systémových zdrojů a elektřiny, takže efektivita je klíčová při těžbě kryptoměn. Díky vysoké propustnosti a relativně nízkým energetickým nárokům jsou GPU jedinečně vhodné pro provádění těchto vysoce náročných úkolů.
+
+Nyní, když jste obeznámeni s některými způsoby využití GPU kromě her, můžete se lépe rozhodnout, zda je GPU to pravé pro vaši infrastrukturu Private Cloud.
