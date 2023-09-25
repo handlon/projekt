@@ -1,2 +1,2 @@
 # projekt
-[jsi kokot](https://github.com/handlon/projekt)
+[jsi kokot](https://github.com/handlon/projekt/blob/main/index.html)
